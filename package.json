@@ -1,0 +1,23 @@
+{
+  "name": "synth-keyboard",
+  "version": "1.0.0",
+  "description": "digit synth keyboard",
+  "main": "main.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chkalovec-spec/synth-keyboard.git"
+  },
+  "keywords": [
+    "digit",
+    "audio",
+    "synth",
+    "keyboard"
+  ],
+  "author": "korev.dmitriy@mail.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chkalovec-spec/synth-keyboard/issues"
+  },
+  "homepage": "https://github.com/chkalovec-spec/synth-keyboard#readme"
+}
